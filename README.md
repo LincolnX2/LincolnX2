@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LincolnX2
 - 👀 I’m interested in Software development,information security & software testing
-- 🌱 I’m currently learning C# | Java | Python & Software Testings.
-- 💞️ I’m looking to collaborate on any software development project
+- 🌱 I’m currently learning | C# | Java | Python | SQL | .
+- 💞️ I’m looking to collaborate on any software development project especially relating to Manual & Automation Software testing
 - 📫 How to reach me github:@LincolnX2 email:sabur.yinus@gmail.com
 
 <!---
